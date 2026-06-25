@@ -1,3 +1,7 @@
+## Live Demo
+Clixk on the link.
+https://shahnoor046.github.io/Simon-Says-Game/
+
 # Simon-Says-Game
 
 A simple and interactive Simon Says Game built using HTML, CSS, and JavaScript.
@@ -35,9 +39,6 @@ Simon Says is a memory-based game where the player has to remember and repeat th
 * simon.css
 * simon.js
 
-## Live Demo
-
-Add your GitHub Pages link here after deployment.
 
 ## Author
 
