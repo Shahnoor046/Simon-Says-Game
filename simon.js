@@ -4,6 +4,14 @@ let btns=["yellow","red","green","purple"];
 let started=false;
 let level=0;
 
+document.addEventListener("click",function(){
+    if(started==false){
+        console.log("game started");
+        started=true;
+        levelup();
+    }
+})
+
 document.addEventListener("keypress",function(){
     if(started==false){
         console.log("game started");
