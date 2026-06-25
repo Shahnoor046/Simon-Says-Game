@@ -1,5 +1,5 @@
 ## Live Demo
-Clixk on the link.
+Click on the link.
 https://shahnoor046.github.io/Simon-Says-Game/
 
 # Simon-Says-Game
